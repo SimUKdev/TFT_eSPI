@@ -9,6 +9,7 @@
 #define TFT_CS   27  // Chip select control pin
 #define TFT_DC   32  // Data Command control pin
 #define TFT_RST   5  // Reset pin (could connect to RST pin)
+#define TFT_BL      4  // Dispaly backlight control pin
 
 #define SPI_FREQUENCY  80000000
 

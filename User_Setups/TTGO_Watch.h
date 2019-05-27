@@ -4,7 +4,7 @@
 #define TFT_HEIGHT 240
 #define ST7789_DRIVER
 
-#define TFT_MISO            4
+#define TFT_MISO            -1
 #define TFT_MOSI            19
 #define TFT_SCLK            18
 #define TFT_CS              5
