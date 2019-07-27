@@ -30,7 +30,7 @@ The library contains proportional fonts, different sizes can be enabled/disabled
 
 The library is based on the Adafruit GFX and Adafruit driver libraries and the aim is to retain compatibility. Significant additions have been made to the library to boost the speed for ESP8266/ESP32 processors (it is typically 3 to 10 times faster) and to add new features. The new graphics functions include different size proportional fonts and formatting features. There are lots of example sketches to demonstrate the different features and included functions.
 
-Configuration of the library font selections, pins used to interface with the TFT and other features is made by editting the User_Setup.h file in the library folder, or by selecting a configuration in the library "User_Setup_Selet,h" file.  Fonts and features can easily be disabled by commenting out lines.
+Configuration of the library font selections, pins used to interface with the TFT and other features is made by editting the User_Setup.h file in the library folder, or by selecting a configuration in the library "User_Setup_Select.h" file.  Fonts and features can easily be disabled by commenting out lines.
 
 
 # Anti-aliased Fonts
